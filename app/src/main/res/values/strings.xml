@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Splash</string>
+    <string name="webtrack">webtrack</string>
+    <string name="get_started">Get Started</string>
+</resources>
